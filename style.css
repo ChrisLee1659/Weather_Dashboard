@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.card {
+    background: lightblue;
+    padding: 2.5em;
+    width: 100%;
+    max-width: 400px;
+    border-block-end-style: inherit;
+    margin: 2em;
+}
