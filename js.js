@@ -1,4 +1,7 @@
 javascript
 let weather = {
-    "apiKey":https://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API key}
+    "apiKey": "4adc862ea7f2d02242ef820b53d9a380",
+    fetchWeather: function (){
+      fetch ("")  
+    }
 }
